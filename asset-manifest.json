@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/create-a-page-using-Reactjs.git/static/css/main.9fa9130b.css",
+    "main.js": "/create-a-page-using-Reactjs.git/static/js/main.33b05847.js",
+    "index.html": "/create-a-page-using-Reactjs.git/index.html",
+    "main.9fa9130b.css.map": "/create-a-page-using-Reactjs.git/static/css/main.9fa9130b.css.map",
+    "main.33b05847.js.map": "/create-a-page-using-Reactjs.git/static/js/main.33b05847.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa9130b.css",
+    "static/js/main.33b05847.js"
+  ]
+}
